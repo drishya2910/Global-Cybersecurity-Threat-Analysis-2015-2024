@@ -63,3 +63,4 @@ Geographic Threat Map (Top Right): A visual representation of incident distribut
 
 Operational Gauge (Bottom Right): Measures Resolution Time (Hours) against global benchmarks to visualize operational efficiency and identify response bottlenecks.
 
+<img width="1760" height="770" alt="image" src="https://github.com/user-attachments/assets/feee2712-d397-44c4-8b13-29bc1f29a9a1" />
