@@ -42,3 +42,24 @@ Recommendations
 1) Prioritize Defense Spending: Focus resources on top-ranked threats (e.g., Ransomware).
 2) Optimize Incident Response: Investigate attack types where resolution time exceeds the global average.
 3) Address Industry Gaps: Tailor security frameworks specifically for the most vulnerable target industries.
+
+After structuring the data through SQL and auditing for integrity, developed a multi-perspective Power BI dashboard to translate raw incident data into actionable business intelligence.
+The dashboard is designed to provide both a high-level summary for stakeholders and a granular view for security analysts to identify specific industry vulnerabilities
+
+📊 Interactive Dashboard Layout
+
+The dashboard is organized into six functional areas to provide a comprehensive view of the threat landscape:
+
+Key Performance Indicators (Top Left): Displays essential high-level metrics such as Total Financial Loss, Total Affected Users, and Average Resolution Time for an immediate status check.
+
+Clustered Bar Chart (Bottom Left): Ranks Attack Types (e.g., Phishing, Ransomware, DDoS) by their frequency or financial impact to help prioritize budget allocation.
+
+Interactive List Slicer (Top Middle): Allows users to filter the entire dashboard by specific categories such as Year, Country, or Target Industry for deep-dive trend analysis.
+
+Detailed Data Table (Bottom Middle): Provides a granular view of records, showing specific attributes like Defense Mechanisms and Vulnerability Types to map existing security gaps.
+
+Geographic Threat Map (Top Right): A visual representation of incident distribution across the globe, highlighting high-risk regions and the international reach of specific attack sources.
+
+
+Operational Gauge (Bottom Right): Measures Resolution Time (Hours) against global benchmarks to visualize operational efficiency and identify response bottlenecks.
+
